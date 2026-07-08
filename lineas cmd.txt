@@ -1,0 +1,3 @@
+cd C:\Users\cl174815224\Downloads\fondos_app
+python -m pip install -r requirements.txt
+python -m streamlit run app.py
