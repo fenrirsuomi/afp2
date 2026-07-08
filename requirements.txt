@@ -4,3 +4,4 @@ numpy>=1.26
 plotly>=5.22
 seaborn>=0.13
 matplotlib>=3.9
+openpyxl>=3.1
